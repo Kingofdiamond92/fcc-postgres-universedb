@@ -118,3 +118,11 @@ git push -u origin master
 git push origin main
 git push origin main
 git add .
+git commit -m "init commit"
+git push
+git push -u origin master
+git branch -b
+git checkout -b master
+git push origin master
+git commit -m "init commit"
+git add .
