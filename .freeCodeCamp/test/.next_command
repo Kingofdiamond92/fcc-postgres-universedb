@@ -110,3 +110,11 @@ git remote -v
 git add.
 git commit -m "init commit"
 git add .
+git commit -m "init commit"
+git push
+git push origin master
+git branch -a
+git push -u origin master
+git push origin main
+git push origin main
+git add .
