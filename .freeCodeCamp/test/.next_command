@@ -126,3 +126,10 @@ git checkout -b master
 git push origin master
 git commit -m "init commit"
 git add .
+git commit -m "init commit"
+git commit -m "init commit"
+git push origin master
+git commit -m "init commit"
+git add .
+git remote -v
+git add .
